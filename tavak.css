@@ -1,0 +1,63 @@
+table
+{
+border: 2px solid rgb(192, 192, 253);
+table-layout: fixed;
+border-spacing: 3px;
+border-radius: 4px;
+width: 700px;
+height: 400px;
+color: rgb(0, 0, 102);
+font-family: Arial;
+font-size: 13px;
+}
+
+td
+{
+text-align: center;
+border: 1px none white;
+border-radius: 5px;
+background-color: rgb(204, 204, 255);
+box-shadow: 1.5px 1.5px darkblue;
+}
+
+th
+{
+text-align: center;
+border: 1px none white;
+border-radius: 5px;
+background-color: rgb(170, 170, 255);
+box-shadow: 1.5px 1.5px darkblue;
+}
+
+th, td
+{
+width: 80px;
+height: 40px
+}
+
+.nev
+{
+background-color: rgb(136, 136, 255);
+font-weight: bold;
+}
+
+.uts
+{
+background-color: rgb(204, 204, 204);
+}
+
+.piros
+{
+color: red;
+}
+
+.vel
+{
+background-color: rgb(170, 170, 170);
+font-weight: bold;
+}
+
+img
+{
+max-width: 100%;
+}
